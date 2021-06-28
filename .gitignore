@@ -31,3 +31,6 @@ package-lock.json
 .privateNetwork/
 
 geth
+node0
+node1
+node2
